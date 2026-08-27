@@ -37,7 +37,11 @@ Fill in the sections below yourself, then:
 
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Building AI agents often involves far more than writing code: configuring tools,
+debugging behavior, testing integrations, and deploying to production. In this
+talk, we'll explore how GitHub Copilot, Microsoft Foundry Skill, and Foundry
+Toolkit enable an end-to-end agent development workflow entirely within Visual
+Studio Code.
 
 ### 🚀 Getting started
 
@@ -45,33 +49,32 @@ Add your session description here. Keep it concise — 2-3 sentences about what 
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+1. Review the Caldova pharmaceutical business scenario
+2. Explore the agent implementation in [`src/`](src/README.md)
+3. Review the supporting sample inputs in [`data/`](data/README.md)
 
 #### On your own
 
 If you're learning at your own pace:
 
 1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+2. Review the sample agent implementation in [`src/`](src/README.md)
+3. Use the supporting inputs in [`data/`](data/README.md) to explore the scenario
 
 ### 🎯 Learning outcomes
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Explain how GitHub Copilot, Microsoft Foundry Skill, and Foundry Toolkit support the AI agent development lifecycle in Visual Studio Code
+- Use GitHub Copilot and Microsoft Foundry Skill to configure and debug an AI agent in Visual Studio Code
+- Test agent integrations and prepare an AI agent for production deployment from Visual Studio Code
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- GitHub Copilot
+- Microsoft Foundry Skill
+- Foundry Toolkit
+- Visual Studio Code
 
 ### 📚 Continue your learning
 
@@ -102,17 +105,12 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 ### 👥 Content owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/carlotta94c">
+        <img src="https://github.com/carlotta94c.png" width="100px;" alt="Carlotta Castelluccio"/><br />
+        <sub><b>Carlotta Castelluccio</b></sub></a><br />
+            <a href="https://github.com/carlotta94c" title="talk">📢</a>
     </td>
 </tr></table>
 

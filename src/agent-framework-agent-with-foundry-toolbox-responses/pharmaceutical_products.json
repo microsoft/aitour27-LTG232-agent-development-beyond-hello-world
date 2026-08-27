@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": "PHR-0001",
+    "product_name": "SolarGuard SPF 50 Face Lotion",
+    "category": "Sun Protection",
+    "price": 18.99
+  },
+  {
+    "product_id": "PHR-0002",
+    "product_name": "SunShield SPF 30 Body Spray",
+    "category": "Sun Protection",
+    "price": 14.49
+  },
+  {
+    "product_id": "PHR-0003",
+    "product_name": "Mineral Defense SPF 40 Cream",
+    "category": "Sun Protection",
+    "price": 21.75
+  },
+  {
+    "product_id": "PHR-0004",
+    "product_name": "Kids SunSafe SPF 50 Lotion",
+    "category": "Sun Protection",
+    "price": 16.25
+  },
+  {
+    "product_id": "PHR-0005",
+    "product_name": "Daily UV Defense SPF 25 Moisturizer",
+    "category": "Sun Protection",
+    "price": 17.8
+  },
+  {
+    "product_id": "PHR-0006",
+    "product_name": "SportBlock SPF 50 Gel",
+    "category": "Sun Protection",
+    "price": 19.6
+  },
+  {
+    "product_id": "PHR-0007",
+    "product_name": "Clear Face SPF 35 Fluid",
+    "category": "Sun Protection",
+    "price": 22.1
+  },
+  {
+    "product_id": "PHR-0008",
+    "product_name": "After Sun Cooling Aloe Gel",
+    "category": "Sun Protection",
+    "price": 11.95
+  },
+  {
+    "product_id": "PHR-0009",
+    "product_name": "Lip Protect SPF 30 Balm",
+    "category": "Sun Protection",
+    "price": 5.75
+  },
+  {
+    "product_id": "PHR-0010",
+    "product_name": "UltraLight SPF 45 Mist",
+    "category": "Sun Protection",
+    "price": 15.9
+  },
+  {
+    "product_id": "PHR-0011",
+    "product_name": "ColdEase Daytime Capsules",
+    "category": "Cold and Flu",
+    "price": 9.49
+  },
+  {
+    "product_id": "PHR-0012",
+    "product_name": "ColdEase Nighttime Syrup",
+    "category": "Cold and Flu",
+    "price": 10.25
+  },
+  {
+    "product_id": "PHR-0013",
+    "product_name": "BreatheFree Nasal Spray",
+    "category": "Cold and Flu",
+    "price": 8.75
+  },
+  {
+    "product_id": "PHR-0014",
+    "product_name": "ThroatCalm Honey Lozenges",
+    "category": "Cold and Flu",
+    "price": 6.4
+  },
+  {
+    "product_id": "PHR-0015",
+    "product_name": "FluRelief Multi-Symptom Tablets",
+    "category": "Cold and Flu",
+    "price": 12.6
+  },
+  {
+    "product_id": "PHR-0016",
+    "product_name": "ChestClear Expectorant Syrup",
+    "category": "Cold and Flu",
+    "price": 11.3
+  },
+  {
+    "product_id": "PHR-0017",
+    "product_name": "SinusComfort Caplets",
+    "category": "Cold and Flu",
+    "price": 9.95
+  },
+  {
+    "product_id": "PHR-0018",
+    "product_name": "Junior Fever and Cold Liquid",
+    "category": "Cold and Flu",
+    "price": 8.2
+  },
+  {
+    "product_id": "PHR-0019",
+    "product_name": "Menthol Comfort Vapor Rub",
+    "category": "Cold and Flu",
+    "price": 7.15
+  },
+  {
+    "product_id": "PHR-0020",
+    "product_name": "Rapid Relief Cough Drops",
+    "category": "Cold and Flu",
+    "price": 4.85
+  },
+  {
+    "product_id": "PHR-0021",
+    "product_name": "HydraSilk Daily Face Cream",
+    "category": "Cosmetics",
+    "price": 24.5
+  },
+  {
+    "product_id": "PHR-0022",
+    "product_name": "Velvet Matte Foundation - Medium",
+    "category": "Cosmetics",
+    "price": 27.25
+  },
+  {
+    "product_id": "PHR-0023",
+    "product_name": "GentleGlow Facial Cleanser",
+    "category": "Cosmetics",
+    "price": 13.75
+  },
+  {
+    "product_id": "PHR-0024",
+    "product_name": "Renewal Retinol Night Serum",
+    "category": "Cosmetics",
+    "price": 32.9
+  },
+  {
+    "product_id": "PHR-0025",
+    "product_name": "Botanical Rose Lip Tint",
+    "category": "Cosmetics",
+    "price": 12.4
+  },
+  {
+    "product_id": "PHR-0026",
+    "product_name": "Brightening Vitamin C Serum",
+    "category": "Cosmetics",
+    "price": 29.6
+  },
+  {
+    "product_id": "PHR-0027",
+    "product_name": "SoftTouch Micellar Water",
+    "category": "Cosmetics",
+    "price": 10.95
+  },
+  {
+    "product_id": "PHR-0028",
+    "product_name": "Nourishing Shea Body Lotion",
+    "category": "Cosmetics",
+    "price": 15.3
+  },
+  {
+    "product_id": "PHR-0029",
+    "product_name": "Precision Volume Mascara",
+    "category": "Cosmetics",
+    "price": 18.5
+  },
+  {
+    "product_id": "PHR-0030",
+    "product_name": "Calming Oat Facial Mask",
+    "category": "Cosmetics",
+    "price": 16.8
+  },
+  {
+    "product_id": "PHR-0031",
+    "product_name": "Daily Complete Multivitamin",
+    "category": "Vitamins",
+    "price": 16.95
+  },
+  {
+    "product_id": "PHR-0032",
+    "product_name": "Vitamin D3 2000 IU Softgels",
+    "category": "Vitamins",
+    "price": 11.45
+  },
+  {
+    "product_id": "PHR-0033",
+    "product_name": "Vitamin C 1000 mg Tablets",
+    "category": "Vitamins",
+    "price": 13.2
+  },
+  {
+    "product_id": "PHR-0034",
+    "product_name": "Omega-3 Fish Oil Softgels",
+    "category": "Vitamins",
+    "price": 19.75
+  },
+  {
+    "product_id": "PHR-0035",
+    "product_name": "Iron Plus Folic Acid Tablets",
+    "category": "Vitamins",
+    "price": 12.85
+  },
+  {
+    "product_id": "PHR-0036",
+    "product_name": "Calcium Magnesium Zinc Caplets",
+    "category": "Vitamins",
+    "price": 15.6
+  },
+  {
+    "product_id": "PHR-0037",
+    "product_name": "B-Complex Energy Capsules",
+    "category": "Vitamins",
+    "price": 14.25
+  },
+  {
+    "product_id": "PHR-0038",
+    "product_name": "Kids Berry Multivitamin Gummies",
+    "category": "Vitamins",
+    "price": 17.4
+  },
+  {
+    "product_id": "PHR-0039",
+    "product_name": "Biotin 5000 mcg Tablets",
+    "category": "Vitamins",
+    "price": 10.7
+  },
+  {
+    "product_id": "PHR-0040",
+    "product_name": "Prenatal Complete Capsules",
+    "category": "Vitamins",
+    "price": 21.3
+  }
+]

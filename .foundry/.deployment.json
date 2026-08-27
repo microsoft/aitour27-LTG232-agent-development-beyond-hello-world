@@ -1,0 +1,12 @@
+{
+  "projectId": "e955e588-e774-46a2-999c-e24a37be233f",
+  "hostedAgentDeployOptions": {
+    "deploymentMethod": "zip",
+    "zipPackageMode": "remote",
+    "zipRuntime": "python_3_14",
+    "zipEntryPoint": [
+      "python3",
+      "src/agent-framework-agent-with-foundry-toolbox-responses/main.py"
+    ]
+  }
+}
