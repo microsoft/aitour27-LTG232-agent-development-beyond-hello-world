@@ -1,0 +1,4 @@
+name: agent-framework-agent-with-foundry-toolbox-responses
+resources:
+  cpu: '0.5'
+  memory: 1.0Gi

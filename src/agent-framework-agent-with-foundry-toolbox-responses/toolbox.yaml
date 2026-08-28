@@ -1,0 +1,16 @@
+# toolbox.yaml
+# Foundry toolbox for the Caldova social media campaign assistant.
+# It exposes two tools behind a single MCP endpoint:
+#   - file_search: retrieval over the pharmaceutical product catalog (vector store)
+#   - web_search : timely context (season, awareness days, current topics)
+#
+# Create/update it with:
+#   azd ai toolbox create agent-tools --from-file ./toolbox.yaml --project-endpoint "$FOUNDRY_PROJECT_ENDPOINT"
+# Then set the printed MCP endpoint as TOOLBOX_ENDPOINT (azd env set TOOLBOX_ENDPOINT "<endpoint>").
+description: Caldova campaign assistant toolbox (file_search over product catalog + web_search)
+tools:
+  - type: file_search
+    vector_store_ids: ["vs_tRtwYWzof05OhWYxW4fvQoRQ"]
+  - type: web_search
+    name: web_search
+    require_approval: "never"
