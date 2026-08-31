@@ -1,7 +1,5 @@
 # Delivery resources
 
-<!-- AI TOUR TEMPLATE PLACEHOLDER: replace the required deck link before publication. Optional recording links can remain unavailable. -->
-
 Presenter, re-delivery, and train-the-trainer materials for this session.
 
 ## Core materials
