@@ -6,8 +6,8 @@ Presenter, re-delivery, and train-the-trainer materials for this session.
 
 | Item | Link | Notes |
 |---|---|---|
-| Delivery deck | Pending | Public URL required before publication |
-| Session recording | Pending | Optional URL when available |
+| Delivery deck | [English](https://aka.ms/aitour27/LTG232/slides/en) | Public URL required before publication |
+| Session recording | [Recording](https://aka.ms/aitour27/LTG232/youtube) | Optional URL when available |
 | Attendee landing page | [Session README](../README.md) | Public starting point |
 
 ## Delivery checklist
