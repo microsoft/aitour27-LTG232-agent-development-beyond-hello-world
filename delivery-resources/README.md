@@ -6,7 +6,7 @@ Presenter, re-delivery, and train-the-trainer materials for this session.
 
 | Item | Link | Notes |
 |---|---|---|
-| Delivery deck | coming soon | Public URL required before publication |
+| Delivery deck | Avail 10.12.26 | PowerPoint Deck |
 | Attendee landing page | [Session README](../README.md) | Public starting point |
 
 ## Delivery checklist
