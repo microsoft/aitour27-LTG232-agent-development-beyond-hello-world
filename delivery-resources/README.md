@@ -6,8 +6,9 @@ Presenter, re-delivery, and train-the-trainer materials for this session.
 
 | Item | Link | Notes |
 |---|---|---|
-| Delivery deck | Avail 10.12.26 | PowerPoint Deck |
+| Delivery deck | [Session deck](./LTG232%20Agent%20Development%20Beyond%20Hello%20World.pptx) | PowerPoint Deck |
 | Attendee landing page | [Session README](../README.md) | Public starting point |
+| Session walkthrough | [Demo recording](https://aka.ms/aitour27/LTG232/youtube) | Walkthrough Video |
 
 ## Delivery checklist
 
